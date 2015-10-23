@@ -20,6 +20,7 @@ import org.springframework.stereotype.Controller;
 )
 public class MmApplication {
 
+    // hello
     public static void main(String[] args) {
         SpringApplication.run(MmApplication.class, args);
     }
